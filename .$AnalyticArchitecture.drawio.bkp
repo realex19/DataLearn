@@ -1,0 +1,19 @@
+<mxfile host="Electron" modified="2023-04-21T14:45:18.359Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.2.1 Chrome/112.0.5615.87 Electron/24.1.2 Safari/537.36" etag="GQYejnh4q_Tfi3SGc_XJ" version="21.2.1" type="device">
+  <diagram name="Страница 1" id="yXLNuJ0svB3r7xR19tD1">
+    <mxGraphModel dx="1098" dy="828" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="axI0EwFukkeBaidvmjkA-1" value="DataWarehouse" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;rotation=0;direction=east;" vertex="1" parent="1">
+          <mxGeometry x="366" y="280" width="96" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="axI0EwFukkeBaidvmjkA-2" value="DataLake" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="354" y="470" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="axI0EwFukkeBaidvmjkA-3" value="DataPlatform" style="shape=dataStorage;whiteSpace=wrap;html=1;fixedSize=1;direction=north;size=10;" vertex="1" parent="1">
+          <mxGeometry x="366" y="400" width="94" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
